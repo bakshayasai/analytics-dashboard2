@@ -16,6 +16,3 @@
 - View Analytics Data
 - Add New Analytics Record
 - REST API Integration
-
-## Author
-Akshaya Sai
